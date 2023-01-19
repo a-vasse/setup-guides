@@ -371,10 +371,6 @@ Your app should now be live. You can check the URL (ex. `APP_NAME.herokuapp.com`
 - Run the following `heroku config:set CLOUDINARY_URL=cloudinary://166....` replacing the end with your own personal key.
 - Confirm the status by executing `heroku config`
 
-- Provide any additional resources or next steps for the reader.
-- Provide any troubleshooting tips.
-- Provide any feedback mechanism.
-
 ### Troubleshooting<a id="herokutrouble"></a>
 
 - In order to pinpoint issues with Heroku deployment, run `heroku logs --tail`

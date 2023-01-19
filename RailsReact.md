@@ -16,7 +16,6 @@
 * [Deployment on Heroku](#heroku)
   * [Initial Deployment](#herokuinitial)
   * [Database Management](#herokudb)
-  * [Cloudinary Configuration](#herokucloud)
   * [Troubleshooting](#herokutrouble)
 * [Conclusion](#conclusion)
 
@@ -178,15 +177,6 @@ Your app should now be live. You can check the URL (ex. `APP_NAME.herokuapp.com`
   - `heroku run rails db:seed`
 
 *Warning: Do not run `heroku run rails db:create`, it is not necessary in this instance.*
-
-### Cloudinary Configuration<a id="herokucloud"></a>
-
-- Run the following `heroku config:set CLOUDINARY_URL=cloudinary://166....` replacing the end with your own personal key.
-- Confirm the status by executing `heroku config`
-
-- Provide any additional resources or next steps for the reader.
-- Provide any troubleshooting tips.
-- Provide any feedback mechanism.
 
 ### Troubleshooting<a id="herokutrouble"></a>
 
