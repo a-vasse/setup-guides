@@ -22,7 +22,7 @@
   * [Install Active Storage](#activeinstall)
   * [Install Active Storage](#clasconfig)
   * [Usage in your project](#clasuse)
-* [Local Testing](#heroku)
+* [Local Testing](#local)
 * [Deployment on Heroku](#heroku)
   * [Initial Deployment](#herokuinitial)
   * [Database Management](#herokudb)
