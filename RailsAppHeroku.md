@@ -23,7 +23,7 @@
   * [Install Active Storage](#clasconfig)
   * [Usage in your project](#clasuse)
 * [Local Testing](#local)
-* [Deployment on Heroku](#heroku)
+* [Deployment on Heroku](#herokudeploy)
   * [Initial Deployment](#herokuinitial)
   * [Database Management](#herokudb)
   * [Cloudinary Configuration](#herokucloud)
@@ -348,7 +348,7 @@ To setup your database for testing, execute the following:
 
 _* Note: if you have an existing DB, you will need to run `rails db:reset`_
 
-## Deployment on Heroku<a id="heroku"></a>
+## Deployment on Heroku<a id="herokudeploy"></a>
 
 ### Initial deployment<a id="herokuinitial"></a>
 - Log in to Heroku by executing `heroku login` and following the login instructions.
