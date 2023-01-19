@@ -20,7 +20,7 @@
   * [Install and integrate dotenv](#clasdot)
   * [Install Cloudinary](#clasinstall)
   * [Install Active Storage](#activeinstall)
-  * [Install Active Storage](#clasconfig)
+  * [Configuring files](#clasconfig)
   * [Usage in your project](#clasuse)
 * [Local Testing](#local)
 * [Deployment on Heroku](#herokudeploy)

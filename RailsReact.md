@@ -13,7 +13,7 @@
 * [Integrating React.js into the project](#reactsetup)
 * [React.js and Rails explained](#explained)
 * [Local Testing](#local)
-* [Deployment on Heroku](#heroku)
+* [Deployment on Heroku](#herokudeploy)
   * [Initial Deployment](#herokuinitial)
   * [Database Management](#herokudb)
   * [Troubleshooting](#herokutrouble)
@@ -160,7 +160,7 @@ To setup your database for testing, execute the following:
 
 _* Note: if you have an existing DB, you will need to run `rails db:reset`_
 
-## Deployment on Heroku<a id="heroku"></a>
+## Deployment on Heroku<a id="herokudeploy"></a>
 
 ### Initial deployment<a id="herokuinitial"></a>
 - Log in to Heroku by executing `heroku login` and following the login instructions.
