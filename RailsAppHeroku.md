@@ -388,3 +388,4 @@ Your app should now be live. You can check the URL (ex. `APP_NAME.herokuapp.com`
 ## Conclusion<a id="conclusion"></a>
 
 With the above steps followed, you are now ready to code your own Ruby on Rails app, and deploy it to Heroku!
+
